@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mad Libs Mania</string>
+    <string name="titleLine1">Welcome to Mad Libs Mania!</string>
+    <string name="titleLine2">Fill in a random Mad Libs Puzzle on your phone!</string>
+    <string name="titleLine3">Press the\n\n\'Generate Mad Libs\'\n\nbutton to start</string>
+    <string name="startButton">Generate Mad Libs</string>
+    <string name="placeholderText">placeholder</string>
+    <string name="submitLabel">Create Story</string>
+    <string name="goHome">Done</string>
+</resources>
